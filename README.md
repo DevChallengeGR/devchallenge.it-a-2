@@ -6,7 +6,8 @@ Repository has next files:
 - Test report.docx // List of issues and recommendations
 - OpenWeatherMap.postman_collection.json // it's Postman collection with requests
 - OpenWeatherMap.postman_environment.json
-  To import Postman collection environment files you need to launch Postman and click on "Import" button, in the left top corner, then select the file and add it to Postman All requests are ready to use 
+
+To import Postman collection environment files you need to launch Postman and click on "Import" button, in the left top corner, then select the file and add it to Postman All requests are ready to use 
 
 How to run automated end-to-end tests:
 - Go to Postman Runner, 
